@@ -1,0 +1,17 @@
+{
+  "name": "babel-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "auto": "node units/auto.js",
+    "manual": "node units/manual.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.0.0",
+    "@babel/preset-env": "^7.0.0",
+    "@babel/register": "^7.0.0"
+  }
+}
